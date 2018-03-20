@@ -15,7 +15,6 @@ require_once "head.php";
 <?php
 flashMessages();  //get function from util.php
 ?>
-
 <table border="1">
 <th>Name</th>
 <th>Headline</th>
